@@ -67,12 +67,5 @@ Webflow's built-in e-commerce features coupled with its powerful Logic system ma
   <wf-collection-list name="Products" data="{{ apiResponse.data }}" />
   ```
 
-**Remember:**
-  - These are just starting points, adapt and expand them to fit your specific needs.
-  - Test and refine your workflows to ensure they run smoothly and effectively.
-  - Explore Webflow University resources and community forums for more inspiration and guidance.
-
-By embracing automation, you can free yourself from mundane tasks, unlock new possibilities for your store, and ultimately offer a seamless and engaging experience for your customers. Go forth and automate!
-
 # Need Help?
 Need custom [Webflow Development](https://epyc.in/)?
